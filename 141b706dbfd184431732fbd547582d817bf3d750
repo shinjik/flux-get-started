@@ -1,0 +1,1 @@
+{"jobID":"33a550c0-86a5-b5bb-42ee-6755d53061bf","spec":{"type":"policy","cause":{"Message":"1.7 does work","User":"Sergey Plastinkin \u003csplastinkin@griddynamics.com\u003e"},"spec":{"default:deployment/hello-kubernetes-custom":{"add":{},"remove":{"locked":"true","locked_msg":"true","locked_user":"true"}}}},"result":null}
