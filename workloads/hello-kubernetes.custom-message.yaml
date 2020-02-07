@@ -17,9 +17,6 @@ metadata:
   name: hello-kubernetes-custom
   annotations:
     fluxcd.io/automated: 'true'
-    fluxcd.io/locked: 'true'
-    fluxcd.io/locked_msg: 1.7 does not work
-    fluxcd.io/locked_user: Sergey Plastinkin <splastinkin@griddynamics.com>
 spec:
   replicas: 3
   selector:
