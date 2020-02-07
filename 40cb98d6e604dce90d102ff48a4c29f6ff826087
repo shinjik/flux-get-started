@@ -1,0 +1,1 @@
+{"jobID":"57995f31-3825-178c-0b6a-f8457a3406fc","spec":{"type":"policy","cause":{"Message":"","User":"Sergey Plastinkin \u003csplastinkin@griddynamics.com\u003e"},"spec":{"default:deployment/hello-kubernetes-custom":{"add":{"automated":"true"},"remove":{}}}},"result":null}
